@@ -5,3 +5,4 @@ e fazem scrapping do league of graphs:  https://www.leagueofgraphs.com/pt/summon
 - Testar a performance de cada uma das aplicações
 - Testar a performance de chamar nossa própria api
 - Testar limite de requisições
+- Adicionar golang
